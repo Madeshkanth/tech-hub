@@ -1,0 +1,91 @@
+/*h1{
+    color:rgb(209, 19, 187);
+    color: #000000;
+    font: 50;
+    background-color: #88e62a;
+    margin: 20px;
+}
+body{
+    background:#141516;
+    color:#88e62a
+}
+p1{
+    line-height: 20px;
+    background-color: aqua;
+    color:rgb(175, 58, 58);
+    font:bold;
+    width:50%;
+}
+container
+{
+    width: 700px;
+}*/
+h1{
+    margin-top:200px;
+    margin-bottom: 200px;
+    text-align: center;
+ text-shadow:0 0 5px cyan,0 0 25px cyan;
+ font-size: 20px;
+ color:black;
+}
+*{
+    color:rgb(82, 219, 19);
+    background-color:0,0,0;
+    text-decoration-color: rgb(127, 255, 221);
+    font-size: 20px;
+}
+#laptop{
+    background-color: blue;
+
+    text-align: center;
+    list-style-position: inside;
+  /*  list-style-image:url(C:\Users\vijay\Downloads\forward-solid.svg);*/
+}
+
+body{
+    text-decoration: double;}
+#signup{
+    margin: 50px;
+    margin-left: 300px;
+    margin-top:500px;
+    margin-right: 280px;
+    margin-block-end: 50%;
+    font-display:initial;
+}
+#mailid{
+    color:blueviolet;
+}
+a{
+    display: inline-block;
+    text-align: center;
+        border: 2px solid #e71717; /* You can adjust the width and color as needed */
+        border-radius: 10%;
+        outline:3px solid blue;
+        padding:10px;
+        text-align:right;
+    cursor:grab;
+    font-size: 100%;
+    margin-left: 226px;
+}
+li{
+    list-style-type:armenian;
+    color:rgb(22, 157, 207);
+}
+a{
+    box-shadow: 0 0 5px cyan,0 0 25px cyan;
+}
+a:hover{
+    background-color:aqua;
+    color:orangered;
+}
+#{
+    text-align: center;
+}
+.sty{
+    border-radius:50%;
+    color:#e71717;
+}
+.pp{
+    border-radius:50%;
+    column-width: 30px;;
+}
